@@ -40,17 +40,17 @@ come-sano-app/
    │       ├── pimenton.png
    │       └── tomate.png
    ├── views/
-        │   ├── layouts/
-        │   │   └── main.hbs
-        │   ├── partials/
-        │   │   ├── menu.hbs
-        │   │   ├── dashboard.hbs
-        │   │   ├── producto.hbs
-        │   │   └── mainSection.hbs
-        │   └── index.hbs
-        ├── app.js
-        ├── package.json
-        └── README.md
+   │   ├── layouts/
+   │   │   └── main.hbs
+   │   ├── partials/
+   │   │   ├── menu.hbs
+   │   │   ├── dashboard.hbs
+   │   │   ├── producto.hbs
+   │   │   └── mainSection.hbs
+   │   └── index.hbs
+   ├── app.js
+   ├── package.json
+   └── README.md
    ```
 ### Tecnologías Utilizadas
 - Node.js
