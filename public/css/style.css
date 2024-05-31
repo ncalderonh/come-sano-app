@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f4f6;
+    /* Fondo suave */
+    color: #2f4f4f;
+    /* Texto en color gris oscuro */
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #2e8b57;
+    /* Verde */
+}
+
+.nav-link {
+    color: #ffffff !important;
+}
+
+.nav-link:hover {
+    color: #f0e68c !important;
+    /* Amarillo claro */
+}
+
+.main-section {
+    text-align: center;
+    padding: 2rem 0;
+    background-color: #8fbc8f;
+    /* Verde claro */
+}
+
+.main-section h2 {
+    color: #2f4f4f;
+}
+
+.card {
+    border: none;
+}
+
+.card-img-top {
+    border-radius: 10px;
+}
+
+.card-title {
+    color: #2e8b57;
+    /* Verde */
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-body {
+    background-color: #f5fffa;
+    /* Menta cremosa */
+    border-radius: 0 0 10px 10px;
+}
+
+h1.text-center {
+    color: #2e8b57;
+    /* Verde */
+    margin-bottom: 2rem;
+}
+
+.container.mt-4 {
+    background-color: #f5fffa;
+    /* Menta cremosa */
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #2e8b57;
+    /* Verde */
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.btn-add-to-cart {
+    display: block;
+    width: 100%;
+    background-color: #2e8b57;
+    /* Verde */
+    border: none;
+    color: #ffffff;
+    font-size: 1rem;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+.btn-add-to-cart:hover {
+    background-color: #27694e;
+    /* Verde oscuro */
+}
