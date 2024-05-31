@@ -26,32 +26,32 @@ Para ejecutar este proyecto, necesitas tener instalado Node.js y npm. Además, s
 
 ## Estructura del Proyecto
    ```css
-     come-sano-app/
-     ├── public/
-     │   ├── css/
-     │   │   └── styles.css
-     │   ├── js/
-     │   │   └── scripts.js
-     │   └── assets/
-     │       ├── banana.png
-     │       ├── cebollas.png
-     │       ├── lechuga.png
-     │       ├── papas.png
-     │       ├── pimenton.png
-     │       └── tomate.png
-     ├── views/
-     │   ├── layouts/
-     │   │   └── main.hbs
-     │   ├── partials/
-     │   │   ├── menu.hbs
-     │   │   ├── dashboard.hbs
-     │   │   ├── producto.hbs
-     │   │   └── mainSection.hbs
-     │   └── index.hbs
-     ├── app.js
-     ├── package.json
-     └── README.md
-
+come-sano-app/
+   ├── public/
+   │   ├── css/
+   │   │   └── styles.css
+   │   ├── js/
+   │   │   └── scripts.js
+   │   └── assets/
+   │       ├── banana.png
+   │       ├── cebollas.png
+   │       ├── lechuga.png
+   │       ├── papas.png
+   │       ├── pimenton.png
+   │       └── tomate.png
+   ├── views/
+        │   ├── layouts/
+        │   │   └── main.hbs
+        │   ├── partials/
+        │   │   ├── menu.hbs
+        │   │   ├── dashboard.hbs
+        │   │   ├── producto.hbs
+        │   │   └── mainSection.hbs
+        │   └── index.hbs
+        ├── app.js
+        ├── package.json
+        └── README.md
+   ```
 ### Tecnologías Utilizadas
 - Node.js
 - Express
