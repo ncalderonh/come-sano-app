@@ -25,7 +25,7 @@ Para ejecutar este proyecto, necesitas tener instalado Node.js y npm. Además, s
    git clone https://github.com/tu-usuario/come-sano-app.git
 
 ## Estructura del Proyecto
-      ```css
+   ```css
      come-sano-app/
      ├── public/
      │   ├── css/
