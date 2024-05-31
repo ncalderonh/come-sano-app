@@ -25,29 +25,36 @@ Para ejecutar este proyecto, necesitas tener instalado Node.js y npm. Además, s
    git clone https://github.com/tu-usuario/come-sano-app.git
 
 ## Estructura del Proyecto
-  ```css
-  come-sano-app/
-  ├── public/
-  │   ├── css/
-  │   │   └── styles.css
-  │   ├── js/
-  │   │   └── scripts.js
-  │   └── assets/
-  │       ├── banana.png
-  │       ├── cebollas.png
-  │       ├── lechuga.png
-  │       ├── papas.png
-  │       ├── pimenton.png
-  │       └── tomate.png
-  ├── views/
-  │   ├── layouts/
-  │   │   └── main.hbs
-  │   ├── partials/
-  │   │   ├── menu.hbs
-  │   │   ├── dashboard.hbs
-  │   │   ├── producto.hbs
-  │   │   └── mainSection.hbs
-  │   └── index.hbs
-  ├── app.js
-  ├── package.json
-  └── README.md
+      ```css
+     come-sano-app/
+     ├── public/
+     │   ├── css/
+     │   │   └── styles.css
+     │   ├── js/
+     │   │   └── scripts.js
+     │   └── assets/
+     │       ├── banana.png
+     │       ├── cebollas.png
+     │       ├── lechuga.png
+     │       ├── papas.png
+     │       ├── pimenton.png
+     │       └── tomate.png
+     ├── views/
+     │   ├── layouts/
+     │   │   └── main.hbs
+     │   ├── partials/
+     │   │   ├── menu.hbs
+     │   │   ├── dashboard.hbs
+     │   │   ├── producto.hbs
+     │   │   └── mainSection.hbs
+     │   └── index.hbs
+     ├── app.js
+     ├── package.json
+     └── README.md
+
+### Tecnologías Utilizadas
+- Node.js
+- Express
+- Handlebars
+- Bootstrap
+- jQuery
